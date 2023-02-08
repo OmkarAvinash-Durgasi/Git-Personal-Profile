@@ -7,3 +7,4 @@ $age = '24';
 $school = 'UNH';
 $major= 'Data Science';
 $duration = '24 months';
+$contact_number = 'No number';
